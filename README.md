@@ -5,6 +5,5 @@ Useful Information About Deep Learning
  https://handong1587.github.io/deep_learning/2015/10/09/dl-courses.html
  _______________________________________________________________________________________________________
  - another useful LINK:
- 
  http://deeplearning.cs.cmu.edu/
  
