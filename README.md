@@ -6,6 +6,5 @@ Useful Information About Deep Learning
  _______________________________________________________________________________________________________
  - another useful LINK:     
  http://deeplearning.cs.cmu.edu/
- 
  - <a href="https://distill.pub/2017/momentum/" >Why Momentum Really Works</a>
  
