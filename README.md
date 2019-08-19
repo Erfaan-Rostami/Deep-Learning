@@ -12,4 +12,4 @@ Useful Information About Deep Learning
 - useful links and papers:
 
     &spades; <a href="https://arxiv.org/pdf/1803.07870.pdf"> Reservoir computing </a>
-
+    &spades; <a href="https://towardsdatascience.com/gentle-introduction-to-echo-state-networks-af99e5373c68"> Gentle introduction to Echo State Networks </a>
