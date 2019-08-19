@@ -11,5 +11,5 @@ Useful Information About Deep Learning
 ## Recurrent Neural Networks
 - useful links and papers:
 
-&spades; <a href="https://arxiv.org/pdf/1803.07870.pdf"> Reservoir computing </a>
+   &spades; <a href="https://arxiv.org/pdf/1803.07870.pdf"> Reservoir computing </a>
 
