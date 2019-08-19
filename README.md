@@ -6,7 +6,7 @@ Useful Information About Deep Learning
  _______________________________________________________________________________________________________
  - another useful LINK:     
  http://deeplearning.cs.cmu.edu/
- -  the page "<a href="https://distill.pub/2017/momentum/" >Why Momentum Really Works</a>" is a popular story about momentum by <a href="http://gabgoh.github.io/"> Gabriel Goh.
+ -  the page "<a href="https://distill.pub/2017/momentum/" >Why Momentum Really Works</a>" is a popular story about momentum by <a href="http://gabgoh.github.io/"> Gabriel Goh </a>.
  
 ## Recurrent Neural Networks
 - useful links and papers:
