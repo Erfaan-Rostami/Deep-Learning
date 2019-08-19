@@ -14,3 +14,5 @@ Useful Information About Deep Learning
     &spades; <a href="https://arxiv.org/pdf/1803.07870.pdf"> Reservoir computing </a>
     
     &spades; <a href="https://towardsdatascience.com/gentle-introduction-to-echo-state-networks-af99e5373c68"> Gentle introduction to Echo State Networks </a>
+
+    &spades; <a href="https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45"> Animated RNN, LSTM and GRU </a>
