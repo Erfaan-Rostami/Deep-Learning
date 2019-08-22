@@ -9,6 +9,7 @@ Useful Information About Deep Learning
  -  the page "<a href="https://distill.pub/2017/momentum/" >Why Momentum Really Works</a>" is a popular story about momentum by <a href="http://gabgoh.github.io/"> Gabriel Goh </a>.
 ## Convolutional Networks
 - useful links and papers:
+
    &diams; <a href="https://www.geeksforgeeks.org/depth-wise-separable-convolutional-neural-networks/"> Depth wise Separable Convolutional Neural Networks </a> 
 
 ## RECURRENT AND RECURSIVE NEURAL NETWORKS
