@@ -8,7 +8,7 @@ Useful Information About Deep Learning
  http://deeplearning.cs.cmu.edu/
  -  the page "<a href="https://distill.pub/2017/momentum/" >Why Momentum Really Works</a>" is a popular story about momentum by <a href="http://gabgoh.github.io/"> Gabriel Goh </a>.
  
-## Recurrent Neural Networks
+## RECURRENT AND RECURSIVE NEURAL NETWORKS
 - useful links and papers:
 
     &spades; <a href="https://arxiv.org/pdf/1803.07870.pdf"> Reservoir computing </a>
