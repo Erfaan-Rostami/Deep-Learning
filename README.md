@@ -1,4 +1,9 @@
 # Deep-Learning
+
+## CMP784: Deep Learning
+- you can find a good course that provides a thorough understanding of the fundamental concepts and recent advances in deep learning 
+<a href="https://web.cs.hacettepe.edu.tr/~aykut/classes/spring2018/cmp784/index.html#div_courseinfo"> here </a> by
+<a href="https://web.cs.hacettepe.edu.tr/~aykut/"> Aykut Erdem </a>.
 Useful Information About Deep Learning
 
 - In the following address(Useful and attractive!) you can find Practical courses about "Deep Learning" :
