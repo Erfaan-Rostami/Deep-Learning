@@ -11,6 +11,8 @@ Useful Information About Deep Learning
 - useful links and papers:
 
    &diams; <a href="https://www.geeksforgeeks.org/depth-wise-separable-convolutional-neural-networks/"> Depth wise Separable Convolutional Neural Networks </a> 
+   &diams; <a href="https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728"> A Basic Introduction to Separable Convolutions </a> by Chi Feng Wang
+
 
 ## RECURRENT AND RECURSIVE NEURAL NETWORKS
 - useful links and papers:
