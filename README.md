@@ -34,4 +34,4 @@
     &spades; <a href= "https://www.researchgate.net/post/what_is_the_realitionship_between_deep_learning_methods_and_reservoir_computing_if_any">
  What is the realitionship between deep learning methods and reservoir computing (if any)?</a>
  ## Main TextBooks
- <img src="C:\Users\sony\Desktop\pro deep learning with tensorflow.JPEG"  title="pro deep learning with tensorflow" height="100" width="200" />
+ <img src="https://github.com/Erfaan-Rostami/Deep-Learning/blob/master/Chollet-DLP-HI.png"  title="pro deep learning with tensorflow" height="100" width="200" />
