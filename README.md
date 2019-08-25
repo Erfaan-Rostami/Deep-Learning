@@ -35,3 +35,5 @@
  What is the realitionship between deep learning methods and reservoir computing (if any)?</a>
  ## Main TextBooks
  <img src="https://github.com/Erfaan-Rostami/Deep-Learning/blob/master/Chollet-DLP-HI.png"  title="pro deep learning with tensorflow" height="140" width="140" /><img src="https://github.com/Erfaan-Rostami/Deep-Learning/blob/master/pro%20deep%20learning%20with%20tensorflow.jpg"  title="pro deep learning with tensorflow" height="140" width="140" /><img src="https://github.com/Erfaan-Rostami/Deep-Learning/blob/master/DL-Goodfellow.jpg"  title="pro deep learning with tensorflow" height="140" width="140" />
+ 
+ &hearts; <a href="https://machinelearningmastery.com/better-deep-learning/">"Better Deep Learning"</a>; a new eBook  written by  in the friendly Machine Learning Mastery style that you’re used to, discover exactly how to improve the performance of deep learning neural network models on your predictive modeling projects.
