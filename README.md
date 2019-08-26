@@ -15,7 +15,7 @@
  http://deeplearning.cs.cmu.edu/
  -  the page "<a href="https://distill.pub/2017/momentum/" >Why Momentum Really Works</a>" is a popular story about momentum by <a href="http://gabgoh.github.io/"> Gabriel Goh </a>.
 ## Convolutional Networks
-- useful links and papers:
+- Useful links and papers:
 
    &diams; <a href="https://www.geeksforgeeks.org/depth-wise-separable-convolutional-neural-networks/"> Depth wise Separable Convolutional Neural Networks </a> 
    
@@ -23,7 +23,7 @@
 
 
 ## RECURRENT AND RECURSIVE NEURAL NETWORKS
-- useful links and papers:
+- Useful links and papers:
 
     &spades; <a href="https://arxiv.org/pdf/1803.07870.pdf"> Reservoir computing </a>
     
@@ -34,6 +34,7 @@
     &spades; <a href= "https://www.researchgate.net/post/what_is_the_realitionship_between_deep_learning_methods_and_reservoir_computing_if_any">
  What is the realitionship between deep learning methods and reservoir computing (if any)?</a>
  ## Autoencoder
+ - Useful links and papers:
  &clubs; <a href="https://web.stanford.edu/class/cs294a/sparseAutoencoder.pdf">Sparse Autoencoder</a>; Lecture note by Andrew Ng
  
  &clubs; <a href="https://towardsdatascience.com/paper-summary-iclr-2014-k-sparse-autoencoders-72078c6f1117">k-Sparse Autoencoders</a>
