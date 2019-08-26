@@ -34,7 +34,7 @@
     &spades; <a href= "https://www.researchgate.net/post/what_is_the_realitionship_between_deep_learning_methods_and_reservoir_computing_if_any">
  What is the realitionship between deep learning methods and reservoir computing (if any)?</a>
  ## Autoencoder
- <a href="https://web.stanford.edu/class/cs294a/sparseAutoencoder.pdf">Sparse Autoencoder</a>; Lecture note by Andrew Ng
+ &clubs; <a href="https://web.stanford.edu/class/cs294a/sparseAutoencoder.pdf">Sparse Autoencoder</a>; Lecture note by Andrew Ng
  
  &clubs; <a href="https://towardsdatascience.com/paper-summary-iclr-2014-k-sparse-autoencoders-72078c6f1117">k-Sparse Autoencoders</a>
  ## Main TextBooks
