@@ -35,6 +35,7 @@
  What is the realitionship between deep learning methods and reservoir computing (if any)?</a>
  ## Autoencoder
  - Useful links and papers:
+ 
  &clubs; <a href="https://web.stanford.edu/class/cs294a/sparseAutoencoder.pdf">Sparse Autoencoder</a>; Lecture note by Andrew Ng
  
  &clubs; <a href="https://towardsdatascience.com/paper-summary-iclr-2014-k-sparse-autoencoders-72078c6f1117">k-Sparse Autoencoders</a>
