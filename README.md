@@ -34,7 +34,7 @@
     &spades; <a href= "https://www.researchgate.net/post/what_is_the_realitionship_between_deep_learning_methods_and_reservoir_computing_if_any">
  What is the realitionship between deep learning methods and reservoir computing (if any)?</a>
  ## Autoencoder
- <a href="https://web.stanford.edu/class/cs294a/sparseAutoencoder.pdf"></a>; Lecture note by Andrew Ng
+ <a href="https://web.stanford.edu/class/cs294a/sparseAutoencoder.pdf">Sparse Autoencoder</a>; Lecture note by Andrew Ng
  ## Main TextBooks
  <img src="https://github.com/Erfaan-Rostami/Deep-Learning/blob/master/Chollet-DLP-HI.png"  title="pro deep learning with tensorflow" height="140" width="120" /><img src="https://github.com/Erfaan-Rostami/Deep-Learning/blob/master/pro%20deep%20learning%20with%20tensorflow.jpg"  title="pro deep learning with tensorflow" height="140" width="120" /><img src="https://github.com/Erfaan-Rostami/Deep-Learning/blob/master/DL-Goodfellow.jpg"  title="pro deep learning with tensorflow" height="140" width="120" /><img src="https://github.com/Erfaan-Rostami/Deep-Learning/blob/master/JBrownlee.png"  title="Better Deep Learning" height="140" width="120" />
  
