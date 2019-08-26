@@ -35,6 +35,7 @@
  What is the realitionship between deep learning methods and reservoir computing (if any)?</a>
  ## Autoencoder
  <a href="https://web.stanford.edu/class/cs294a/sparseAutoencoder.pdf">Sparse Autoencoder</a>; Lecture note by Andrew Ng
+ 
  &clubs; <a href="https://towardsdatascience.com/paper-summary-iclr-2014-k-sparse-autoencoders-72078c6f1117">k-Sparse Autoencoders</a>
  ## Main TextBooks
  <img src="https://github.com/Erfaan-Rostami/Deep-Learning/blob/master/Chollet-DLP-HI.png"  title="pro deep learning with tensorflow" height="140" width="120" /><img src="https://github.com/Erfaan-Rostami/Deep-Learning/blob/master/pro%20deep%20learning%20with%20tensorflow.jpg"  title="pro deep learning with tensorflow" height="140" width="120" /><img src="https://github.com/Erfaan-Rostami/Deep-Learning/blob/master/DL-Goodfellow.jpg"  title="pro deep learning with tensorflow" height="140" width="120" /><img src="https://github.com/Erfaan-Rostami/Deep-Learning/blob/master/JBrownlee.png"  title="Better Deep Learning" height="140" width="120" />
