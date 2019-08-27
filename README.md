@@ -17,6 +17,7 @@
 ## Optimization
 - Useful links and papers:
 
+    &clubs; <a href="https://www.learnopencv.com/batch-normalization-in-deep-networks/">Batch Normalization in Deep Networks</a> by Sunita Nayak
  
 ## Convolutional Networks
 - Useful links and papers:
