@@ -19,7 +19,7 @@
 
     &clubs; <a href="https://www.learnopencv.com/batch-normalization-in-deep-networks/">Batch Normalization in Deep Networks</a> by Sunita Nayak
     
-    &clubs; <a href="https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9">Epoch vs Batch Size vs Iterations</a> by
+    &clubs; <a href="https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9">Epoch vs Batch Size vs Iterations</a> by SAGAR SHARMA
  
 ## Convolutional Networks
 - Useful links and papers:
