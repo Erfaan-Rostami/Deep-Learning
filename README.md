@@ -48,6 +48,8 @@
    &clubs; <a href="https://towardsdatascience.com/paper-summary-iclr-2014-k-sparse-autoencoders-72078c6f1117">k-Sparse Autoencoders</a>
    
    &clubs; <a href="https://jaan.io/what-is-variational-autoencoder-vae-tutorial/">Tutorial - What is a variational autoencoder?</a>by <a href="https://jaan.io/">JAAN ALTOSAAR</a>
+   
+   &clubs; A good<a href="https://www.cse.cuhk.edu.hk/irwin.king/_media/presentations/autoencoder_part1.pdf">PowerPoint</a>by Shilin HE
  ## Main TextBooks
  <img src="https://github.com/Erfaan-Rostami/Deep-Learning/blob/master/Chollet-DLP-HI.png"  title="pro deep learning with tensorflow" height="140" width="120" /><img src="https://github.com/Erfaan-Rostami/Deep-Learning/blob/master/pro%20deep%20learning%20with%20tensorflow.jpg"  title="pro deep learning with tensorflow" height="140" width="120" /><img src="https://github.com/Erfaan-Rostami/Deep-Learning/blob/master/DL-Goodfellow.jpg"  title="pro deep learning with tensorflow" height="140" width="120" /><img src="https://github.com/Erfaan-Rostami/Deep-Learning/blob/master/JBrownlee.png"  title="Better Deep Learning" height="140" width="120" />
  
