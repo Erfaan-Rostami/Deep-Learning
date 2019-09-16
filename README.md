@@ -55,5 +55,5 @@
  
  &hearts; <a href="https://machinelearningmastery.com/better-deep-learning/">"Better Deep Learning"</a>; a new eBook  written by <a href="https://github.com/jbrownlee">Jason Brownlee</a> in the friendly Machine Learning Mastery style that you’re used to, discover exactly how to improve the performance of deep learning neural network models on your predictive modeling projects.
  ## Google Colab:
- <a href="https://colab.research.google.com/notebooks/welcome.ipynb">Google Colab</a> is a free cloud service and it supports free GPU!
+ <a href="https://colab.research.google.com/notebooks/welcome.ipynb">Google Colab</a> provides GPU and it’s totally free. Seriously!
 
