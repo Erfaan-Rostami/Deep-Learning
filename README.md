@@ -58,6 +58,7 @@
  <a href="https://colab.research.google.com/notebooks/welcome.ipynb">Google Colab</a> provides GPU and it’s totally free. Seriously!
  
  - A <a href="https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c">Simple Tutorial</a> for the Frustrated and Confused, by Anne Bonner
- - <a href="https://medium.com/lean-in-women-in-tech-india/google-colab-the-beginners-guide-5ad3b417dfa">Google Colab</a> - e Beginner’s Guide
+ - <a href="https://medium.com/lean-in-women-in-tech-india/google-colab-the-beginners-guide-5ad3b417dfa">Google Colab</a> - The Beginner’s Guide, by Vishakha Lall
+
 
 
