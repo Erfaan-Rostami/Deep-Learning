@@ -64,6 +64,6 @@
 ## About Keras:
 &#10022; <a href="https://machinelearningmastery.com/how-to-configure-image-data-augmentation-when-training-deep-learning-neural-networks/">How to Configure Image Data Augmentation in Keras</a>; by Jason Brownlee
 
-&#10022; <a href="">Keras ImageDataGenerator and Data Augmentation</a>; by 
+&#10022; <a href="https://www.pyimagesearch.com/2019/07/08/keras-imagedatagenerator-and-data-augmentation/">Keras ImageDataGenerator and Data Augmentation</a>; by Adrian Rosebrock
 
 
