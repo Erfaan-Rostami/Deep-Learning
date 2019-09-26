@@ -64,4 +64,6 @@
 ## About Keras:
 &#10022; <a href="https://machinelearningmastery.com/how-to-configure-image-data-augmentation-when-training-deep-learning-neural-networks/">How to Configure Image Data Augmentation in Keras</a>; by Jason Brownlee
 
+&#10022; <a href=""></a>
+
 
