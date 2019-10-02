@@ -56,7 +56,7 @@
  <img src="https://github.com/Erfaan-Rostami/Deep-Learning/blob/master/Chollet-DLP-HI.png"  title="pro deep learning with tensorflow" height="140" width="120" /><img src="https://github.com/Erfaan-Rostami/Deep-Learning/blob/master/pro%20deep%20learning%20with%20tensorflow.jpg"  title="pro deep learning with tensorflow" height="140" width="120" /><img src="https://github.com/Erfaan-Rostami/Deep-Learning/blob/master/DL-Goodfellow.jpg"  title="pro deep learning with tensorflow" height="140" width="120" /><img src="https://github.com/Erfaan-Rostami/Deep-Learning/blob/master/JBrownlee.png"  title="Better Deep Learning" height="140" width="120" />
  
  &hearts; <a href="https://machinelearningmastery.com/better-deep-learning/">"Better Deep Learning"</a>; a new eBook  written by <a href="https://github.com/jbrownlee">Jason Brownlee</a> in the friendly Machine Learning Mastery style that you’re used to, discover exactly how to improve the performance of deep learning neural network models on your predictive modeling projects.
- ## Google Colab:
+ ## Google Colab and Anaconda
  <a href="https://colab.research.google.com/notebooks/welcome.ipynb">Google Colab</a> provides GPU and it’s totally free. Seriously!
  
  - A <a href="https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c">Simple Tutorial</a> for the Frustrated and Confused, by Anne Bonner
