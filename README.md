@@ -61,7 +61,7 @@
  
  - A <a href="https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c">Simple Tutorial</a> for the Frustrated and Confused, by Anne Bonner
  - <a href="https://medium.com/lean-in-women-in-tech-india/google-colab-the-beginners-guide-5ad3b417dfa">Google Colab</a> - The Beginner’s Guide, by Vishakha Lall
- - <a href="Managing environments">https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#managing-environments</a>
+ - <a href="https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#managing-environments">Managing environments</a>
 ## About Keras:
 &#10022; <a href="https://machinelearningmastery.com/how-to-configure-image-data-augmentation-when-training-deep-learning-neural-networks/">How to Configure Image Data Augmentation in Keras</a>; by Jason Brownlee
 
