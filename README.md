@@ -71,5 +71,5 @@ Many strategiesused in machine learning are explicitly designed to reduce the te
 
 &#10020; <a href="https://www.deeplearningbook.org/contents/regularization.html">Chapter 7</a> of the Deep Learning textbook.
 
-&#10020; <a href="">An Overview of Regularization Techniques in Deep Learning (with Python code)</a>
+&#10020; <a href="">An Overview of Regularization Techniques in Deep Learning (with Python code)</a>, by SHUBHAM JAIN
 
