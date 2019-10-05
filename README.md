@@ -68,5 +68,6 @@
 &#10022; <a href="https://www.pyimagesearch.com/2019/07/08/keras-imagedatagenerator-and-data-augmentation/">Keras ImageDataGenerator and Data Augmentation</a>; by Adrian Rosebrock
 ## Regularization 
 Many strategiesused in machine learning are explicitly designed to reduce the test error, possiblyat the expense of increased training error. These strategies are known collectivelyas regularization.
-&#10020; <a href="">Chapter 7</a> of the Deep Learning textbook.
+
+&#10020; <a href="https://www.deeplearningbook.org/contents/regularization.html">Chapter 7</a> of the Deep Learning textbook.
 
