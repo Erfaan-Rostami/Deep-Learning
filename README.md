@@ -12,7 +12,7 @@
  
  
  &#10039; another useful LINK:  
- - Deep Learning Garden
+ - <a href="http://deeplearning.lipingyang.org/">Deep Learning Garden</a>:
  - http://deeplearning.cs.cmu.edu/
  -  the page "<a href="https://distill.pub/2017/momentum/" >Why Momentum Really Works</a>" is a popular story about momentum by <a href="http://gabgoh.github.io/"> Gabriel Goh </a>.
  - <a href="https://www.quora.com/What-does-end-to-end-mean-in-deep-learning-methods">What does end to end mean in deep learning methods?</a>
