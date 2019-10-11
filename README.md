@@ -70,6 +70,8 @@
 &#10022; <a href="https://machinelearningmastery.com/how-to-configure-image-data-augmentation-when-training-deep-learning-neural-networks/">How to Configure Image Data Augmentation in Keras</a>; by Jason Brownlee
 
 &#10022; <a href="https://www.pyimagesearch.com/2019/07/08/keras-imagedatagenerator-and-data-augmentation/">Keras ImageDataGenerator and Data Augmentation</a>; by Adrian Rosebrock
+
+&#10022; <a href="https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html">Building powerful image classification models using very little data</a>
 ## Regularization 
 Many strategiesused in machine learning are explicitly designed to reduce the test error, possiblyat the expense of increased training error. These strategies are known collectivelyas regularization.
 
