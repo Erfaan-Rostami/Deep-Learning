@@ -79,6 +79,6 @@ Many strategiesused in machine learning are explicitly designed to reduce the te
 
 &#10020; <a href="">An Overview of Regularization Techniques in Deep Learning (with Python code)</a>, by SHUBHAM JAIN
 
-&#10020; <a href="">How to Improve a Neural Network With Regularization</a>(with code for L2 regularization and dropout), by Marco Peixeiro
+&#10020; <a href="https://towardsdatascience.com/how-to-improve-a-neural-network-with-regularization-8a18ecda9fe3">How to Improve a Neural Network With Regularization</a>(with code for L2 regularization and dropout), by Marco Peixeiro
 
 
