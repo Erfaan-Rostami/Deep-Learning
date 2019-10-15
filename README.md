@@ -81,7 +81,7 @@ Many strategiesused in machine learning are explicitly designed to reduce the te
 
 &#10020; <a href="https://towardsdatascience.com/how-to-improve-a-neural-network-with-regularization-8a18ecda9fe3">How to Improve a Neural Network With Regularization</a>(with code for L2 regularization and dropout), by Marco Peixeiro
 ## Neural Activation Function
-&#9873; <a href="https://arxiv.org/pdf/1412.6830.pdf">LEARNING ACTIVATION FUNCTIONS TO IMPROVE DEEP NEURAL NETWORKS</a>
+&#9873; <a href="https://arxiv.org/pdf/1412.6830.pdf">Learning Activation Functions to Improve Deep Neural Networks</a>
 
 &#9873; <a href="https://arxiv.org/ftp/arxiv/papers/1908/1908.08681.pdf">Mish: A Self Regularized Non-Monotonic Neural Activation Function</a>, by Diganta Misra
 
