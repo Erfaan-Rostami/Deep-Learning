@@ -73,7 +73,7 @@
 
 &#10022; <a href="https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html">Building powerful image classification models using very little data</a>
 
-&#10022; <a href="">Everything you need to know about Keras to build your first deep learning model</a>, by Pallawi
+&#10022; <a href="https://medium.com/@pallawi.ds/ai-starter-everything-you-need-to-know-about-keras-to-build-your-first-deep-learning-model-c8d27385344">Everything you need to know about Keras to build your first deep learning model</a>, by Pallawi
 
 ## Regularization 
 Many strategiesused in machine learning are explicitly designed to reduce the test error, possiblyat the expense of increased training error. These strategies are known collectivelyas regularization.
