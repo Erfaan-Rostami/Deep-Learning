@@ -17,7 +17,7 @@
  -  the page "<a href="https://distill.pub/2017/momentum/" >Why Momentum Really Works</a>" is a popular story about momentum by <a href="http://gabgoh.github.io/"> Gabriel Goh </a>.
  - <a href="https://www.quora.com/What-does-end-to-end-mean-in-deep-learning-methods">What does end to end mean in deep learning methods?</a>
  - <a href="https://www.zerotodeeplearning.com/bootcamp?utm_expid=.gXYlB1rUTiOTz74Mmxzc_g.1&utm_referrer=https%3A%2F%2Fwww.google.com%2F#what-will-i-learn">Zero to Deep Learning</a>; San Francisco’s leading machine & deep learning bootcamp.
- - <a href="">30 Amazing Applications of Deep Learning</a>
+ - <a href="http://www.yaronhadad.com/deep-learning-most-amazing-applications/">30 Amazing Applications of Deep Learning</a>, by YARON HADAD
 ## Optimization
 - Useful links and papers:
 
