@@ -18,7 +18,7 @@
  - <a href="https://www.quora.com/What-does-end-to-end-mean-in-deep-learning-methods">What does end to end mean in deep learning methods?</a>
  - <a href="https://www.zerotodeeplearning.com/bootcamp?utm_expid=.gXYlB1rUTiOTz74Mmxzc_g.1&utm_referrer=https%3A%2F%2Fwww.google.com%2F#what-will-i-learn">Zero to Deep Learning</a>; San Francisco’s leading machine & deep learning bootcamp.
  - <a href="http://www.yaronhadad.com/deep-learning-most-amazing-applications/">30 Amazing Applications of Deep Learning</a>, by YARON HADAD
- - <a href="https://medium.com/cracking-the-data-science-interview/the-10-deep-learning-methods-ai-practitioners-need-to-apply-885259f402c1">The 10 Deep Learning Methods AI Practitioners Need to Apply</a>
+ - <a href="https://medium.com/cracking-the-data-science-interview/the-10-deep-learning-methods-ai-practitioners-need-to-apply-885259f402c1">The 10 Deep Learning Methods AI Practitioners Need to Apply</a>, by James Le
 ## Optimization
 - Useful links and papers:
 
