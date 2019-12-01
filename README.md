@@ -93,4 +93,5 @@ Many strategiesused in machine learning are explicitly designed to reduce the te
 &#9873; <a href="https://arxiv.org/ftp/arxiv/papers/1908/1908.08681.pdf">Mish: A Self Regularized Non-Monotonic Neural Activation Function</a>, by Diganta Misra
 
 &#9873; <a href="https://missinglink.ai/guides/neural-network-concepts/7-types-neural-network-activation-functions-right/">7 Types of Neural Network Activation Functions: How to Choose?</a>
+## Generative Adversarial Networks
 
