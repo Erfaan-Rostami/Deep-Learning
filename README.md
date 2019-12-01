@@ -96,5 +96,6 @@ Many strategiesused in machine learning are explicitly designed to reduce the te
 ## Generative Adversarial Networks(GANs)
 &#10040; <a href="https://arxiv.org/pdf/1406.2661.pdf">Generative Adversarial Nets(GANs)</a>, a new framework for estimating generative models via an adversarial process.
 
-&#10040; <a href="">GANs from Zero to Hero:</a> Best Resources for Newcomers
+&#10040; <a href="https://towardsdatascience.com/gans-from-zero-to-hero-best-resources-for-newcomers-a7c7cf1024b5">GANs from Zero to Hero:</a> Best Resources for Newcomers; by Oleksii Kharkovyna
+
 
