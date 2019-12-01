@@ -94,5 +94,7 @@ Many strategiesused in machine learning are explicitly designed to reduce the te
 
 &#9873; <a href="https://missinglink.ai/guides/neural-network-concepts/7-types-neural-network-activation-functions-right/">7 Types of Neural Network Activation Functions: How to Choose?</a>
 ## Generative Adversarial Networks(GANs)
-&#10022; <a href="https://arxiv.org/pdf/1406.2661.pdf">Generative Adversarial Nets(GANs)</a>, a new framework for estimating generative models via an adversarial process.
+&#10040; <a href="https://arxiv.org/pdf/1406.2661.pdf">Generative Adversarial Nets(GANs)</a>, a new framework for estimating generative models via an adversarial process.
+
+&#10040; <a href="">GANs from Zero to Hero:</a> Best Resources for Newcomers
 
