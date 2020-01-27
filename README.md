@@ -66,7 +66,7 @@
  - <a href="https://medium.com/lean-in-women-in-tech-india/google-colab-the-beginners-guide-5ad3b417dfa">Google Colab</a> - The Beginner’s Guide, by Vishakha Lall
  - <a href="https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#managing-environments">Managing environments</a>
  - <a href="http://deeplearning.lipingyang.org/2018/12/25/conda-commands-create-virtual-environments-for-python-with-conda/">Conda commands</a>(create virtual environments for python with conda)
-## About Keras:
+## About Keras
 &#8669; Keras is a Deep Learning library for Python, that is simple, modular, and extensible.
 
 &#10022; <a href="https://machinelearningmastery.com/how-to-configure-image-data-augmentation-when-training-deep-learning-neural-networks/">How to Configure Image Data Augmentation in Keras</a>; by Jason Brownlee
@@ -77,6 +77,7 @@
 
 &#10022; <a href="https://medium.com/@pallawi.ds/ai-starter-everything-you-need-to-know-about-keras-to-build-your-first-deep-learning-model-c8d27385344">Everything you need to know about Keras to build your first deep learning model</a>, by Pallawi
 ## About Pytorch
+&#8669; As described
 
 ## Regularization 
 Many strategiesused in machine learning are explicitly designed to reduce the test error, possiblyat the expense of increased training error. These strategies are known collectivelyas regularization.
