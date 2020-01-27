@@ -77,7 +77,7 @@
 
 &#10022; <a href="https://medium.com/@pallawi.ds/ai-starter-everything-you-need-to-know-about-keras-to-build-your-first-deep-learning-model-c8d27385344">Everything you need to know about Keras to build your first deep learning model</a>, by Pallawi
 ## About Pytorch
-&#8669; As described
+&#8669; As described in 
 
 ## Regularization 
 Many strategiesused in machine learning are explicitly designed to reduce the test error, possiblyat the expense of increased training error. These strategies are known collectivelyas regularization.
