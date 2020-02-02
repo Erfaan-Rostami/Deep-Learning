@@ -79,6 +79,8 @@
 ## About PyTorch
 &#8669; As described in <a href="https://pytorch.org/">PyTorch</a> page, it's An open source machine learning framework that accelerates the path from research prototyping to production deployment.
 
+&#8669;
+
 ## Regularization 
 Many strategiesused in machine learning are explicitly designed to reduce the test error, possiblyat the expense of increased training error. These strategies are known collectivelyas regularization.
 
