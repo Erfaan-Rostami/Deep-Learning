@@ -103,5 +103,6 @@ Many strategiesused in machine learning are explicitly designed to reduce the te
 &#10040; <a href="https://towardsdatascience.com/gans-from-zero-to-hero-best-resources-for-newcomers-a7c7cf1024b5">GANs from Zero to Hero:</a> Best Resources for Newcomers; by Oleksii Kharkovyna
 
 &#10040; <a href="https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29">Understanding GANs:</a> Building, step by step, the reasoning that leads to GANs; by Joseph Rocca
+## Challenges and Competitions in AI
 
 
