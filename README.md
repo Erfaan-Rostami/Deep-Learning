@@ -106,5 +106,6 @@ Many strategiesused in machine learning are explicitly designed to reduce the te
 ## Challenges and Competitions in AI
 - <a href="https://grand-challenge.org/">Grand Challenges</a> in Biomedical Image Analysis
 - <a href="https://www.kaggle.com/">Kaggle</a>
+## Boltzmann Machines
 
 
