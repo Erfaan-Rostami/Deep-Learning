@@ -108,6 +108,7 @@ Many strategiesused in machine learning are explicitly designed to reduce the te
 - <a href="https://www.kaggle.com/">Kaggle</a>
 ## Boltzmann Machines
 - Useful links and papers:
+    &clubs; <a href="http://users.cecs.anu.edu.au/~ssanner/MLSS2010/Frean1.pdf"></a>
 
 
 
