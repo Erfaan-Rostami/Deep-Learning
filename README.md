@@ -33,7 +33,7 @@
    
    &diams; <a href="https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728"> A Basic Introduction to Separable Convolutions </a> by Chi Feng Wang
    
-   &diams; <a href="https://cs231n.github.io/convolutional-networks/"></a>
+   &diams; <a href="https://cs231n.github.io/convolutional-networks/">Convolutional Neural Networks</a>(CNNs / ConvNets)
 
 
 ## RECURRENT AND RECURSIVE NEURAL NETWORKS
