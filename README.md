@@ -27,7 +27,7 @@
     &clubs; <a href="https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9">Epoch vs Batch Size vs Iterations</a> by SAGAR SHARMA
  
 ## Convolutional Networks
-- Useful links and papers:
+- Useful **links** and **papers**:
 
    &diams; <a href="https://www.geeksforgeeks.org/depth-wise-separable-convolutional-neural-networks/"> Depth wise Separable Convolutional Neural Networks </a> 
    
@@ -37,7 +37,7 @@
 
 
 ## RECURRENT AND RECURSIVE NEURAL NETWORKS
-- Useful links and papers:
+- Useful **links** and **papers**:
 
     &spades; <a href="https://arxiv.org/pdf/1803.07870.pdf"> Reservoir computing </a>
     
@@ -48,7 +48,7 @@
     &spades; <a href= "https://www.researchgate.net/post/what_is_the_realitionship_between_deep_learning_methods_and_reservoir_computing_if_any">
  What is the realitionship between deep learning methods and reservoir computing (if any)?</a>
  ## Autoencoder
- - Useful links and papers:
+ - Useful **links** and **papers**:
  
    &clubs; <a href="https://web.stanford.edu/class/cs294a/sparseAutoencoder.pdf">Sparse Autoencoder</a>; Lecture note by Andrew Ng
  
