@@ -20,7 +20,7 @@
  - <a href="http://www.yaronhadad.com/deep-learning-most-amazing-applications/">30 Amazing Applications of Deep Learning</a>, by YARON HADAD
  - <a href="https://medium.com/cracking-the-data-science-interview/the-10-deep-learning-methods-ai-practitioners-need-to-apply-885259f402c1">The 10 Deep Learning Methods AI Practitioners Need to Apply</a>, by James Le
 ## Optimization
-- Useful links and papers:
+- Useful **links** and **papers**:
 
     &clubs; <a href="https://www.learnopencv.com/batch-normalization-in-deep-networks/">Batch Normalization in Deep Networks</a> by Sunita Nayak
     
