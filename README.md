@@ -109,7 +109,7 @@ Many strategiesused in machine learning are explicitly designed to reduce the te
 - <a href="https://grand-challenge.org/">Grand Challenges</a> in Biomedical Image Analysis
 - <a href="https://www.kaggle.com/">Kaggle</a>
 ## Boltzmann Machines
-- Useful links and papers:
+- Useful **links** and **papers**:
 
     &clubs; <a href="https://www.cs.toronto.edu/~hinton/csc321/readings/boltz321.pdf">Boltzmann Machines</a>; Geoffrey E. Hinton
 - Slides:
