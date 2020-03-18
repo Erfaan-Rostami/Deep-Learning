@@ -114,6 +114,7 @@ Many strategiesused in machine learning are explicitly designed to reduce the te
 - Slides:
 
     &clubs; <a href="http://users.cecs.anu.edu.au/~ssanner/MLSS2010/Frean1.pdf">Deep belief nets</a>; by Marcus Frean
+## Skip Connections
 
 
 
