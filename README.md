@@ -117,6 +117,6 @@ Many strategiesused in machine learning are explicitly designed to reduce the te
 ## Skip Connections
 
 ## Variational Autoencoders(VAE)
-
+- Useful **links** and **papers**:
 
 
