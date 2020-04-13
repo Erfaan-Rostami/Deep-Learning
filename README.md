@@ -119,4 +119,6 @@ Many strategiesused in machine learning are explicitly designed to reduce the te
 ## Variational Autoencoders(VAE)
 - Useful **links** and **papers**:
 
+   &#9745;
+
 
