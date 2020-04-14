@@ -122,7 +122,7 @@ Many strategiesused in machine learning are explicitly designed to reduce the te
    &#9745; Tutorial on <a href="https://arxiv.org/pdf/1606.05908.pdf">Variational Autoencoders</a>
    
    &#9745; Understanding <a href="https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73">Variational Autoencoders</a>; by Joseph Rocca
-- Slides:
+- **Slides**:
 
    &#9745;
 
