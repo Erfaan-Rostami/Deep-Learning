@@ -126,7 +126,8 @@ Many strategiesused in machine learning are explicitly designed to reduce the te
 
    &#9745; <a href="http://people.math.gatech.edu/~yyang767/research/VAE_Yuqin.pdf">Variational Autoencoders (VAEs)</a>; by Yuqin Yang
    ## Deep Learning Frameworks
-- [MXNet](https://mxnet.apache.org/versions/1.6/index.html)
+- [MXNet](https://mxnet.apache.org/versions/1.6/index.html):
+![alt text](https://github.com/Erfaan-Rostami/Deep-Learning/blob/master/Image/mxnet-logo.jpeg "Logo Title Text 1")
 
 
 
