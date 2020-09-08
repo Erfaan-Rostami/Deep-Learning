@@ -132,7 +132,7 @@ Many strategiesused in machine learning are explicitly designed to reduce the te
 
 - [PyTorch](https://pytorch.org/): ![alt text][logo]
 
-
+[logo]: https://github.com/Erfaan-Rostami/Deep-Learning/blob/master/Image/Webp.net-resizeimage1.jpg "Logo Title Text 2"
 
 - Torch
 
