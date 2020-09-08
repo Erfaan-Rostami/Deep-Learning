@@ -6,8 +6,7 @@
 <a href="https://web.cs.hacettepe.edu.tr/~aykut/classes/spring2018/cmp784/index.html#div_courseinfo"> here </a> by
 <a href="https://web.cs.hacettepe.edu.tr/~aykut/"> Aykut Erdem </a>.
 
-- In the following address(Useful and attractive!) you can find Practical courses about "**Deep Learning**" :
- https://handong1587.github.io/deep_learning/2015/10/09/dl-courses.html
+- Practical [courses](https://handong1587.github.io/deep_learning/2015/10/09/dl-courses.html)(useful and attractive!) about `Deep Learning`
    
  - <a href="http://deeplearning.lipingyang.org/">Deep Learning Garden</a>: Liping's machine learning, computer vision, and deep learning home: resources about basics, applications, and many more…
  - http://deeplearning.cs.cmu.edu/
