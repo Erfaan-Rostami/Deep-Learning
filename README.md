@@ -129,4 +129,6 @@ Many strategiesused in machine learning are explicitly designed to reduce the te
 - [MXNet](https://mxnet.apache.org/versions/1.6/index.html):
 <img src="https://github.com/Erfaan-Rostami/Deep-Learning/blob/master/Image/mxnet-logo.jpeg"  title="MXNet" height="20" width="58" />
 
+- Torch
+
 
