@@ -126,14 +126,17 @@ Many strategiesused in machine learning are explicitly designed to reduce the te
 
    &#9745; <a href="http://people.math.gatech.edu/~yyang767/research/VAE_Yuqin.pdf">Variational Autoencoders (VAEs)</a>; by Yuqin Yang
    ## Deep Learning Frameworks
-- [MXNet](https://mxnet.apache.org/versions/1.6/index.html): ![alt text][logo]
+- [MXNet](https://mxnet.apache.org/versions/1.6/index.html)
 
-[logo]: https://github.com/Erfaan-Rostami/Deep-Learning/blob/master/Image/Webp.net-resizeimage.jpg "Logo Title Text 2"
+- [PyTorch](https://pytorch.org/)
 
-- [PyTorch](https://pytorch.org/): ![alt text][logo]
+- [TensorFlow](https://www.tensorflow.org/)
 
-[logo]: https://github.com/Erfaan-Rostami/Deep-Learning/blob/master/Image/Webp.net-resizeimage1.jpg "Logo Title Text 2"
+- [Theano](http://deeplearning.net/software/theano/)
 
-- Torch
+- [Torch](http://torch.ch/)
+
+
+
 
 
