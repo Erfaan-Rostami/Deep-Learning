@@ -128,7 +128,7 @@ Many strategiesused in machine learning are explicitly designed to reduce the te
    ## Deep Learning Frameworks
 - [MXNet](https://mxnet.apache.org/versions/1.6/index.html): ![alt text][logo]
 
-[logo]: https://github.com/Erfaan-Rostami/Deep-Learning/blob/master/Image/mxnet-logo.jpeg "Logo Title Text 2"
+[logo]: https://github.com/Erfaan-Rostami/Deep-Learning/blob/master/Image/Webp.net-resizeimage.jpg "Logo Title Text 2"
 
 - Torch
 
