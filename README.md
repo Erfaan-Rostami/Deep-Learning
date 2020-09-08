@@ -1,6 +1,6 @@
 # Deep-Learning
 
-- you can find a good course that provides a thorough understanding of the fundamental concepts and recent advances in deep learning 
+- you can find a good `course` that provides a thorough understanding of the `fundamental concepts` and recent advances in `deep learning` 
 <a href="https://web.cs.hacettepe.edu.tr/~aykut/classes/spring2018/cmp784/index.html#div_courseinfo"> here </a> by
 <a href="https://web.cs.hacettepe.edu.tr/~aykut/"> Aykut Erdem </a>.
 
