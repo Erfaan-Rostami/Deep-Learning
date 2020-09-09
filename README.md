@@ -18,9 +18,9 @@
 ## Optimization
 - Useful **links** and **papers**:
 
-    &#8669; <a href="https://www.learnopencv.com/batch-normalization-in-deep-networks/">Batch Normalization in Deep Networks</a> by Sunita Nayak
+    &#8728; <a href="https://www.learnopencv.com/batch-normalization-in-deep-networks/">Batch Normalization in Deep Networks</a> by Sunita Nayak
     
-    &#8718; <a href="https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9">Epoch vs Batch Size vs Iterations</a> by SAGAR SHARMA
+    &#8728; <a href="https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9">Epoch vs Batch Size vs Iterations</a> by SAGAR SHARMA
  
 ## Convolutional Networks
 - Useful **links** and **papers**:
@@ -35,13 +35,13 @@
 ## RECURRENT AND RECURSIVE NEURAL NETWORKS
 - Useful **links** and **papers**:
 
-    &spades; <a href="https://arxiv.org/pdf/1803.07870.pdf"> Reservoir computing </a>
+    &#8728; <a href="https://arxiv.org/pdf/1803.07870.pdf"> Reservoir computing </a>
     
-    &spades; <a href="https://towardsdatascience.com/gentle-introduction-to-echo-state-networks-af99e5373c68"> Gentle introduction to Echo State Networks </a>
+    &#8728; <a href="https://towardsdatascience.com/gentle-introduction-to-echo-state-networks-af99e5373c68"> Gentle introduction to Echo State Networks </a>
 
-    &spades; <a href="https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45"> Animated RNN, LSTM and GRU </a>
+    &#8728; <a href="https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45"> Animated RNN, LSTM and GRU </a>
 
-    &spades; <a href= "https://www.researchgate.net/post/what_is_the_realitionship_between_deep_learning_methods_and_reservoir_computing_if_any">
+    &#8728; <a href= "https://www.researchgate.net/post/what_is_the_realitionship_between_deep_learning_methods_and_reservoir_computing_if_any">
  What is the realitionship between deep learning methods and reservoir computing (if any)?</a>
  ## Autoencoder
  - Useful **links** and **papers**:
