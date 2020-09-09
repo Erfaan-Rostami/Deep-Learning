@@ -46,11 +46,11 @@
  ## Autoencoder
  - Useful **links** and **papers**:
  
-   &clubs; <a href="https://web.stanford.edu/class/cs294a/sparseAutoencoder.pdf">Sparse Autoencoder</a>; Lecture note by Andrew Ng
+   &#8728; <a href="https://web.stanford.edu/class/cs294a/sparseAutoencoder.pdf">Sparse Autoencoder</a>; Lecture note by Andrew Ng
  
-   &clubs; <a href="https://towardsdatascience.com/paper-summary-iclr-2014-k-sparse-autoencoders-72078c6f1117">k-Sparse Autoencoders</a>
+   &#8728; <a href="https://towardsdatascience.com/paper-summary-iclr-2014-k-sparse-autoencoders-72078c6f1117">k-Sparse Autoencoders</a>
    
-   &clubs; <a href="https://jaan.io/what-is-variational-autoencoder-vae-tutorial/">Tutorial - What is a variational autoencoder?</a>by <a href="https://jaan.io/">JAAN ALTOSAAR</a>
+   &#8728; <a href="https://jaan.io/what-is-variational-autoencoder-vae-tutorial/">Tutorial - What is a variational autoencoder?</a>by <a href="https://jaan.io/">JAAN ALTOSAAR</a>
    
    &clubs; A good <a href="https://www.cse.cuhk.edu.hk/irwin.king/_media/presentations/autoencoder_part1.pdf">PowerPoint</a> by Shilin HE
  ## Main TextBooks
