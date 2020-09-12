@@ -82,11 +82,11 @@
 ## Regularization 
 Many strategiesused in machine learning are explicitly designed to reduce the test error, possiblyat the expense of increased training error. These strategies are known collectivelyas regularization.
 
-⋅⋅⋅&#10020; <a href="https://www.deeplearningbook.org/contents/regularization.html">Chapter 7</a> of the Deep Learning textbook.⋅⋅
+⋅⋅⋅ &#10020; <a href="https://www.deeplearningbook.org/contents/regularization.html">Chapter 7</a> of the Deep Learning textbook.⋅⋅
 
-⋅⋅⋅&#10020; <a href="">An Overview of Regularization Techniques in Deep Learning (with Python code)</a>, by SHUBHAM JAIN⋅⋅
+⋅⋅⋅ &#10020; <a href="">An Overview of Regularization Techniques in Deep Learning (with Python code)</a>, by SHUBHAM JAIN⋅⋅
 
-⋅⋅⋅&#10020; <a href="https://towardsdatascience.com/how-to-improve-a-neural-network-with-regularization-8a18ecda9fe3">How to Improve a Neural Network With Regularization</a>(with code for L2 regularization and dropout), by Marco Peixeiro
+⋅⋅⋅ &#10020; <a href="https://towardsdatascience.com/how-to-improve-a-neural-network-with-regularization-8a18ecda9fe3">How to Improve a Neural Network With Regularization</a>(with code for L2 regularization and dropout), by Marco Peixeiro
 ## Neural Activation Functions
 &#9873; <a href="https://towardsdatascience.com/secret-sauce-behind-the-beauty-of-deep-learning-beginners-guide-to-activation-functions-a8e23a57d046">Understanding Activation Functions:</a> Beginners guide to Activation Functions
 
