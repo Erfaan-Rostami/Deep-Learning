@@ -65,7 +65,7 @@
  - <a href="https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#managing-environments">Managing environments</a>
  - <a href="http://deeplearning.lipingyang.org/2018/12/25/conda-commands-create-virtual-environments-for-python-with-conda/">Conda commands</a>(create virtual environments for python with conda)
 ## About Keras
-&#8669; `Keras` is a Deep Learning library for `Python`, that is simple, modular, and extensible.
+&#8669; `Keras is a Deep Learning library for Python, that is simple, modular, and extensible.`
 
 &#10022; <a href="https://machinelearningmastery.com/how-to-configure-image-data-augmentation-when-training-deep-learning-neural-networks/">How to Configure Image Data Augmentation in Keras</a>; by Jason Brownlee
 
