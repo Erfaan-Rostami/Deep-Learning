@@ -33,7 +33,7 @@
 
 
 ## RECURRENT AND RECURSIVE NEURAL NETWORKS
-- Useful *links* and **papers**:
+- Useful ***links*** and **papers**:
 
     &#8728; <a href="https://arxiv.org/pdf/1803.07870.pdf"> Reservoir computing </a>
     
